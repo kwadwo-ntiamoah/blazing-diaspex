@@ -1,0 +1,15 @@
+/home/kwadwo/Arena/Diaspex/backend/Services/bin/Debug/net7.0/Services.deps.json
+/home/kwadwo/Arena/Diaspex/backend/Services/bin/Debug/net7.0/Services.dll
+/home/kwadwo/Arena/Diaspex/backend/Services/bin/Debug/net7.0/Services.pdb
+/home/kwadwo/Arena/Diaspex/backend/Services/bin/Debug/net7.0/Data.dll
+/home/kwadwo/Arena/Diaspex/backend/Services/bin/Debug/net7.0/Data.pdb
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.dll
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/refint/Services.dll
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/Services.pdb
+/home/kwadwo/Arena/Diaspex/backend/Services/obj/Debug/net7.0/ref/Services.dll
