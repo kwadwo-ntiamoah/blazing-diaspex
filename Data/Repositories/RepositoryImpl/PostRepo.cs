@@ -27,6 +27,11 @@ namespace Data.Repositories.RepositoryImpl
             await _context.Posts!.Where(x => x.Id.Equals(postId)).ExecuteDeleteAsync();
         }
 
+        public async Task<List<Post>> GetAllPosts()
+        {
+            return await _context.Posts!.ToListAsync();
+        }
+
         public async Task<PagedList<Post>> GetCategoryPosts(Guid categoryId, int page, int pageSize)
         {
             IQueryable<Post> postQuery = _context.Posts!;

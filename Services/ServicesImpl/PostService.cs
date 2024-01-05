@@ -107,6 +107,31 @@ namespace Services.ServicesImpl
             }
         }
 
+        public async Task<ApiResponse<List<Post>>> GetAllPosts()
+        {
+            var response = new ApiResponse<List<Post>>();
+
+            try
+            {
+                var posts = await _postRepo.GetAllPosts();
+
+                response.Message = "Posts retrieved successfully";
+                response.Status = System.Net.HttpStatusCode.OK;
+                response.Data = posts;
+
+                return response;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "An error occurred at PostService::GetCategoryPosts => message::{message}", ex.Message);
+
+                response.Status = System.Net.HttpStatusCode.InternalServerError;
+                response.Message = StringConstants.SERVER_ERROR;
+
+                return response;
+            }
+        }
+
         public async Task<ApiResponse<PagedList<Post>>> GetCategoryPosts(Guid categoryId, int page, int pageSize)
         {
             var response = new ApiResponse<PagedList<Post>>();

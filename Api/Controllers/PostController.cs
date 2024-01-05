@@ -25,6 +25,12 @@ namespace Api.Controllers
             _postService = postService;
         }
 
+        [HttpGet("")]
+        public async Task<ActionResult<ApiResponse<List<Post>>>> GetPosts()
+        {
+            return await _postService.GetAllPosts();
+        }
+
         [HttpGet("{id}")]
         public async Task<ActionResult<ApiResponse<Post>>> GetPost(Guid id) {
             return await _postService.GetPost(id);

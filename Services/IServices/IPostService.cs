@@ -10,6 +10,7 @@ namespace Services.IServices
 {
     public interface IPostService
     {
+        public Task<ApiResponse<List<Post>>> GetAllPosts();
         public Task<ApiResponse<Post>> AddPostAsync(string owner, AddPostDto post);
         public Task<ApiResponse<Post>> UpdatePostAsync(string owner, Guid postId, EditPostDto newPost);
         public Task<ApiResponse<PagedList<Post>>> GetCategoryPosts(Guid categoryId, int page, int pageSize);

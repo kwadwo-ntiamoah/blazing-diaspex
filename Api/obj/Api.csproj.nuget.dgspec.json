@@ -1,36 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/home/kwadwo/Arena/Diaspex/backend/Api/Api.csproj": {}
+    "/Users/jojo/Sandbox/Diaspex/backend/Api/Api.csproj": {}
   },
   "projects": {
-    "/home/kwadwo/Arena/Diaspex/backend/Api/Api.csproj": {
+    "/Users/jojo/Sandbox/Diaspex/backend/Api/Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kwadwo/Arena/Diaspex/backend/Api/Api.csproj",
+        "projectUniqueName": "/Users/jojo/Sandbox/Diaspex/backend/Api/Api.csproj",
         "projectName": "Api",
-        "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Api/Api.csproj",
-        "packagesPath": "/home/kwadwo/.nuget/packages/",
-        "outputPath": "/home/kwadwo/Arena/Diaspex/backend/Api/obj/",
+        "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Api/Api.csproj",
+        "packagesPath": "/Users/jojo/.nuget/packages/",
+        "outputPath": "/Users/jojo/Sandbox/Diaspex/backend/Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/kwadwo/.nuget/NuGet/NuGet.Config"
+          "/Users/jojo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj": {
-                "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj"
+              "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj": {
+                "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj"
               },
-              "/home/kwadwo/Arena/Diaspex/backend/Services/Services.csproj": {
-                "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Services/Services.csproj"
+              "/Users/jojo/Sandbox/Diaspex/backend/Services/Services.csproj": {
+                "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Services/Services.csproj"
               }
             }
           }
@@ -83,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj": {
+    "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj",
+        "projectUniqueName": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj",
-        "packagesPath": "/home/kwadwo/.nuget/packages/",
-        "outputPath": "/home/kwadwo/Arena/Diaspex/backend/Data/obj/",
+        "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj",
+        "packagesPath": "/Users/jojo/.nuget/packages/",
+        "outputPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/kwadwo/.nuget/NuGet/NuGet.Config"
+          "/Users/jojo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -162,21 +163,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/kwadwo/Arena/Diaspex/backend/Services/Services.csproj": {
+    "/Users/jojo/Sandbox/Diaspex/backend/Services/Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kwadwo/Arena/Diaspex/backend/Services/Services.csproj",
+        "projectUniqueName": "/Users/jojo/Sandbox/Diaspex/backend/Services/Services.csproj",
         "projectName": "Services",
-        "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Services/Services.csproj",
-        "packagesPath": "/home/kwadwo/.nuget/packages/",
-        "outputPath": "/home/kwadwo/Arena/Diaspex/backend/Services/obj/",
+        "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Services/Services.csproj",
+        "packagesPath": "/Users/jojo/.nuget/packages/",
+        "outputPath": "/Users/jojo/Sandbox/Diaspex/backend/Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/kwadwo/.nuget/NuGet/NuGet.Config"
+          "/Users/jojo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -188,8 +189,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj": {
-                "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj"
+              "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj": {
+                "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj"
               }
             }
           }
@@ -225,7 +226,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }

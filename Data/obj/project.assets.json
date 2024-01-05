@@ -1202,19 +1202,19 @@
     ]
   },
   "packageFolders": {
-    "/home/kwadwo/.nuget/packages/": {}
+    "/Users/jojo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj",
+      "projectUniqueName": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj",
       "projectName": "Data",
-      "projectPath": "/home/kwadwo/Arena/Diaspex/backend/Data/Data.csproj",
-      "packagesPath": "/home/kwadwo/.nuget/packages/",
-      "outputPath": "/home/kwadwo/Arena/Diaspex/backend/Data/obj/",
+      "projectPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/Data.csproj",
+      "packagesPath": "/Users/jojo/.nuget/packages/",
+      "outputPath": "/Users/jojo/Sandbox/Diaspex/backend/Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kwadwo/.nuget/NuGet/NuGet.Config"
+        "/Users/jojo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1279,7 +1279,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }
