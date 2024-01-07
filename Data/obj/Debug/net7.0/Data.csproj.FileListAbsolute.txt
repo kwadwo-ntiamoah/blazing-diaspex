@@ -26,3 +26,8 @@
 /Users/jojo/Sandbox/Diaspex/backend/Data/obj/Debug/net7.0/Data.pdb
 /Users/jojo/Sandbox/Diaspex/backend/Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
 /Users/jojo/Sandbox/Diaspex/backend/Data/obj/Debug/net7.0/ref/Data.dll
+/Users/jojo/Builds/DiaspexBackend/Data.deps.json
+/Users/jojo/Builds/DiaspexBackend/Data.runtimeconfig.json
+/Users/jojo/Builds/DiaspexBackend/Data.dll
+/Users/jojo/Builds/DiaspexBackend/Data.pdb
+/Users/jojo/Sandbox/Diaspex/backend/Data/obj/Debug/net7.0/Data.sourcelink.json

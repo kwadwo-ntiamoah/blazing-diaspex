@@ -28,3 +28,7 @@
 /Users/jojo/Sandbox/Diaspex/backend/Services/obj/Debug/net7.0/refint/Services.dll
 /Users/jojo/Sandbox/Diaspex/backend/Services/obj/Debug/net7.0/Services.pdb
 /Users/jojo/Sandbox/Diaspex/backend/Services/obj/Debug/net7.0/ref/Services.dll
+/Users/jojo/Builds/DiaspexBackend/Services.deps.json
+/Users/jojo/Builds/DiaspexBackend/Services.dll
+/Users/jojo/Builds/DiaspexBackend/Services.pdb
+/Users/jojo/Sandbox/Diaspex/backend/Services/obj/Debug/net7.0/Services.sourcelink.json

@@ -120,3 +120,11 @@
 /Users/jojo/Sandbox/Diaspex/backend/Api/obj/Debug/net7.0/Api.pdb
 /Users/jojo/Sandbox/Diaspex/backend/Api/obj/Debug/net7.0/Api.genruntimeconfig.cache
 /Users/jojo/Sandbox/Diaspex/backend/Api/obj/Debug/net7.0/ref/Api.dll
+/Users/jojo/Builds/DiaspexBackend/appsettings.Development.json
+/Users/jojo/Builds/DiaspexBackend/appsettings.json
+/Users/jojo/Builds/DiaspexBackend/Api
+/Users/jojo/Builds/DiaspexBackend/Api.deps.json
+/Users/jojo/Builds/DiaspexBackend/Api.runtimeconfig.json
+/Users/jojo/Builds/DiaspexBackend/Api.dll
+/Users/jojo/Builds/DiaspexBackend/Api.pdb
+/Users/jojo/Sandbox/Diaspex/backend/Api/obj/Debug/net7.0/Api.sourcelink.json
